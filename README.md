@@ -72,22 +72,6 @@ ql repo https://github.com/hex-ci/smzdm_script.git "smzdm_" "" "env.js|bot.js|se
 * `SMZDM_CROWD_KEYWORD`: 抽奖关键词，执行非免费抽奖时，会优先选择包含此关键词的抽奖，如果未找到包含此关键词的抽奖，则会随机选择一个。
 * `SMZDM_TASK_TESTING`: 是否运行全民众测能量值任务，如要运行此任务，请设置这个环境变量的值为 `yes`，否则不运行。
 
-## 交流群
-
-https://t.me/smzdm_script
-
-## 推荐🐔场
-
-自用🐔场，稳定，线路多，速度快，[点这里注册](https://xs-us.xyz/register?code=GMsubu2k)
-
-## 其他🐑毛
-
-微软积分商城奖励，[点这里注册](https://rewards.bing.com/welcome?rh=15761308&ref=rafsrchae)，脚本看[这里](https://github.com/hex-ci/Microsoft-Rewards-Script)
-
-## 其它说明
-
-使用本脚本可能会造成你的账号临时或永久封禁，请自行评估是否使用本脚本。
-
 ## 注意事项
 
 本仓库发布的脚本及其中涉及的任何解密分析脚本，仅用于测试和学习研究，禁止用于商业用途，不能保证其合法性，准确性，完整性和有效性，请根据情况自行判断。本项目内所有资源文件，禁止任何公众号、自媒体进行任何形式的转载、发布。您必须在下载后的 24 小时内从计算机或手机中完全删除以上内容。
